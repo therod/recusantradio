@@ -1,0 +1,47 @@
+baseURL: 'https://recusantradio.com/'
+languageCode: 'en-us'
+title: 'Recusant Radio'
+theme: 'recusantradio'
+
+copyright: "Created by WyrdThings & Blade of Maya for the Souls community |"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+params:
+  defaultTheme: "dark"
+  disableScrollToTop: true
+  disableThemeToggle: true
+  postIndexTite: "Latest Broadcasts"
+  postIndexId: "latest-broadcasts"
+  assets:
+    favicon: "favicon/favicon.ico"
+    favicon16x16: "favicon/favicon-16x16.png"
+    favicon32x32: "favicon/favicon-32x32.png"
+    apple_touch_icon: "favicon/apple-touch-icon.png"
+    safari_pinned_tab: "favicon/safari-pinned-tab.svg"
+  # socialIcons:
+  #   - name: "youtube"
+  #     url: "https://www.youtube.com/@bladeofmaya"
+  #   - name: "twitch"
+  #     url: "https://twitch.tv/bladeofmaya"
+  #   - name: "discord"
+  #     url: "https://discord.gg/qTet4fDNMM"
+  #   - name: "reddit"
+  #     url: "https://www.reddit.com/user/bladeofmaya/"
+  #   - name: "rss"
+  #     url: "/index.xml"
+
+  homeInfoParams:
+    avatar: "recusant-radio-logo.png"
+    Title: "A place for invaders, by invaders."
+    Content: |
+      Recusant Radio is a decentralized podcast about Souls related content and its community.<br>
+      Why not join the Volcano Manor, and fight with us? Rise with us, against the Erdtree.
+
