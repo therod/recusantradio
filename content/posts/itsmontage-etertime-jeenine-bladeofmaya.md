@@ -1,10 +1,10 @@
 ---
 title: "ItsMontage, Etertime, Jeenine & Blade of Maya"
 date: 2023-03-03
-tags: ['BladeOfMaya', 'Jeenine', 'Etertime', 'ItsMontage']
+tags: ['BladeOfMaya', 'JeeNiNe', 'Etertime', 'ItsMontage']
 ---
 
-[ItsMontage](https://www.twitch.tv/itsmontage), [Etertime](https://www.twitch.tv/etertime) and [Jeenine](https://www.twitch.tv/jeenine) join [Maya's](https://www.twitch.tv/bladeofmaya) stream for some serious (and a lot of non-serious) discussions about Elden Ring and other things.
+[ItsMontage](https://www.twitch.tv/itsmontage), [Etertime](https://www.twitch.tv/etertime) and [JeeNiNe](https://www.twitch.tv/jeenine) join [Maya's](https://www.twitch.tv/bladeofmaya) stream for some serious (and a lot of non-serious) discussions about Elden Ring and other things.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/9ygGSNWJffY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 

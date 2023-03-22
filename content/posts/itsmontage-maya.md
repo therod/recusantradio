@@ -1,6 +1,6 @@
 ---
 title: "How can I make something that others will enjoy?"
-date: 2023-03-03
+date: 2023-03-05
 tags: ['BladeOfMaya', 'ItsMontage']
 ---
 
