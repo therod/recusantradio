@@ -26,7 +26,9 @@ params:
     favicon32x32: "favicon/favicon-32x32.png"
     apple_touch_icon: "favicon/apple-touch-icon.png"
     safari_pinned_tab: "favicon/safari-pinned-tab.svg"
-  # socialIcons:
+  socialIcons:
+    # - name: "rss"
+    #   url: "/index.xml"
   #   - name: "youtube"
   #     url: "https://www.youtube.com/@bladeofmaya"
   #   - name: "twitch"
@@ -35,15 +37,19 @@ params:
   #     url: "https://discord.gg/qTet4fDNMM"
   #   - name: "reddit"
   #     url: "https://www.reddit.com/user/bladeofmaya/"
-  #   - name: "rss"
-  #     url: "/index.xml"
 
   homeInfoParams:
     avatar: "recusant-radio-logo.png"
     Title: "A place for invaders, by invaders."
     Content: |
-      Recusant Radio is a decentralized podcast about Souls related content and its community.<br>
+      <div style="font-size: 20px;">
+      Recusant Radio is a decentralized podcast about Souls related content and its community.
       Why not join the Volcano Manor, and fight with us? Rise with us, against the Erdtree.
       <br><br>
+      </div>
 
-      [List of previous Guests](/tags)
+      <ul style="margin: 0 auto 0 auto; text-align: left; list-style: none; font-size: 20px;">
+        <li style="margin-bottom: 5px;">&#128053; <a href="/tags" style="text-decoration: underline;">List of previous Guests</a></li>
+        <li style="margin-bottom: 5px;">&#128251; <a href="/posts" style="text-decoration: underline;">Latest broadcasts</a></li>
+        <li style="margin-bottom: 5px;">&#128227; <a href="/index.xml" style="text-decoration: underline;">Subscribe to the RSS Feed</a></li>
+      </ul>
