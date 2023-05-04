@@ -18,7 +18,7 @@ params:
   defaultTheme: "dark"
   disableScrollToTop: true
   disableThemeToggle: true
-  postIndexTite: "Latest Broadcasts"
+  postIndexTite: "Latest Episodes"
   postIndexId: "latest-broadcasts"
   assets:
     favicon: "favicon/favicon.ico"
@@ -27,16 +27,6 @@ params:
     apple_touch_icon: "favicon/apple-touch-icon.png"
     safari_pinned_tab: "favicon/safari-pinned-tab.svg"
   socialIcons:
-    # - name: "rss"
-    #   url: "/index.xml"
-  #   - name: "youtube"
-  #     url: "https://www.youtube.com/@bladeofmaya"
-  #   - name: "twitch"
-  #     url: "https://twitch.tv/bladeofmaya"
-  #   - name: "discord"
-  #     url: "https://discord.gg/qTet4fDNMM"
-  #   - name: "reddit"
-  #     url: "https://www.reddit.com/user/bladeofmaya/"
 
   homeInfoParams:
     avatar: "recusant-radio-logo.png"
@@ -49,7 +39,7 @@ params:
       </div>
 
       <ul style="margin: 0 auto 0 auto; text-align: left; list-style: none; font-size: 20px;">
-        <li style="margin-bottom: 5px;">&#128251; <a href="/posts" style="text-decoration: underline;">Latest broadcasts</a></li>
+        <li style="margin-bottom: 5px;">&#128251; <a href="/posts" style="text-decoration: underline;">Latest Episodes</a></li>
         <li style="margin-bottom: 5px;">&#128053; <a href="/tags" style="text-decoration: underline;">List of previous Guests</a></li>
         <li style="margin-bottom: 5px;">&#128227; <a href="/index.xml" style="text-decoration: underline;">Subscribe to the RSS Feed</a></li>
       </ul>
