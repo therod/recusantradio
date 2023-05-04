@@ -2,6 +2,7 @@
 title: "How can I make something that others will enjoy?"
 date: 2023-03-05
 tags: ['BladeOfMaya', 'ItsMontage']
+img: "https://i.ytimg.com/vi/gZJ1B72JdmE/maxresdefault.jpg"
 ---
 
 [ItsMontage](https://www.twitch.tv/itsmontage) walks [Maya](https://www.twitch.tv/bladeofmaya) through his process of creating something unique for the Souls community.

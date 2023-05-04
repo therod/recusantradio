@@ -2,6 +2,7 @@
 title: "YouTube Content Creator Talk, Meditation and Primitive Technology with SleepySheepy"
 date: 2023-05-03
 tags: ['BladeOfMaya', 'SleepySheepy']
+img: "https://i.ytimg.com/vi/f5z0Ern37U0/maxresdefault.jpg"
 ---
 
 ## Todays Guests

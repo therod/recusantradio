@@ -2,6 +2,7 @@
 title: "ItsMontage, Etertime, Jeenine & Blade of Maya"
 date: 2023-03-03
 tags: ['BladeOfMaya', 'JeeNiNe', 'Etertime', 'ItsMontage']
+img: "https://i.ytimg.com/vi/9ygGSNWJffY/maxresdefault.jpg"
 ---
 
 [ItsMontage](https://www.twitch.tv/itsmontage), [Etertime](https://www.twitch.tv/etertime) and [JeeNiNe](https://www.twitch.tv/jeenine) join [Maya's](https://www.twitch.tv/bladeofmaya) stream for some serious (and a lot of non-serious) discussions about Elden Ring and other things.
