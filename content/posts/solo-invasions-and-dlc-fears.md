@@ -1,5 +1,5 @@
 ---
-title: "SOLO INVASIONS and DLC FEARS - with Drunk Souls and Blade of Maya"
+title: "SOLO INVASIONS and DLC FEARS - with WyrdThings, Drunk Souls and Blade of Maya"
 date: 2023-06-13
 tags: ['WyrdThings', 'DrunkSouls', 'BladeOfMaya']
 img: "https://i.ytimg.com/vi/lwnI5A6oN70/maxresdefault.jpg"
